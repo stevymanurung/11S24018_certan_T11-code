@@ -1,0 +1,8 @@
+# Path relatif terhadap file data.yaml agar proyek portabel.
+path: dataset
+train: images/train
+val: images/val
+names:
+  0: melon
+  1: daun
+  2: buah_rusak
